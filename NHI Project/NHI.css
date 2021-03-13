@@ -1,0 +1,41 @@
+body {
+  background-color: #435c4d38;
+}
+
+.jumbotron{
+  background-image: linear-gradient(to right, rgb(120, 219, 219), #008080, rgb(71, 173, 71));
+  margin: 0;
+  padding: 30px; 
+}
+
+img {
+display: center;
+margin-left: auto;
+margin-right: auto;
+width: 85%;
+}
+.navbar {
+background-color: rgb(9, 116, 116);
+}  
+
+.mainH {
+  text-align: center;
+  color: black;
+text-shadow: 8px 8px 4px rgb(59, 160, 160);
+padding-bottom: 20px;
+padding-top: 20px;
+}
+
+
+.FirstH {
+   text-align:center ; 
+  }
+.sixthH {
+  text-align: center;
+  color:;
+}
+
+.site-footer {
+  background-image: linear-gradient(to right, rgb(120, 219, 219), teal, rgb(71, 173, 71))!important;
+  padding: 20px ;
+ }
